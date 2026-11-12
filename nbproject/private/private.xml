@@ -3,18 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/AccounTraceOOP/build/classes/.netbeans_automatic_build</file>
-            <file>file:/D:/AccounTraceOOP/src/model/Account.java</file>
-            <file>file:/D:/AccounTraceOOP/src/main/MainApp.java</file>
-            <file>file:/D:/AccounTraceOOP/src/service/Reportable.java</file>
-            <file>file:/D:/AccounTraceOOP/src/service/Transaction.java</file>
-            <file>file:/D:/AccounTraceOOP/src/service/IncomeStatement.java</file>
-            <file>file:/D:/AccounTraceOOP/src/service/GeneralJournal.java</file>
-            <file>file:/D:/AccounTraceOOP/src/database/DatabaseConnection.java</file>
-            <file>file:/D:/AccounTraceOOP/src/TestConnection/TestConnection.java</file>
             <file>file:/D:/AccounTraceOOP/src/hibernate.cfg.xml</file>
-            <file>file:/D:/AccounTraceOOP/src/database/HibernateUtil.java</file>
             <file>file:/D:/AccounTraceOOP/src/TestConnection/TestHibernate.java</file>
+            <file>file:/D:/AccounTraceOOP/src/database/HibernateUtil.java</file>
+            <file>file:/D:/AccounTraceOOP/src/model/Account.java</file>
+            <file>file:/D:/AccounTraceOOP/src/service/Transaction.java</file>
         </group>
     </open-files>
 </project-private>
